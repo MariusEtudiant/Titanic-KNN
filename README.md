@@ -29,7 +29,7 @@ The main goal is to predict whether a passenger survived the Titanic disaster us
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 - Analyzed survival rates across different features like **Pclass**, **Sex**, and **Embarked**.
-- Visualized correlations using **Seaborn** and **Matplotlib**.
+- Visualized correlations.
 
 ### 3️⃣ Machine Learning Models
 
